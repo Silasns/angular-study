@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "separarOrcamento",
+      "price": "2342",
+      "id": 1
+    },
+    {
+      "name": "Novo Produto atualizei",
+      "price": "789",
+      "id": 2
+    },
+    {
+      "name": "Produto de Teste 01ss",
+      "price": "123",
+      "id": 3
+    }
+  ]
+}
